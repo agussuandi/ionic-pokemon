@@ -234,3 +234,7 @@ http://ionicframework.com/docs/theming/ */
     --ion-card-background: #1e1e1e;
   }
 }
+
+.header-background {
+  --background: var(--ion-color-primary);
+}
